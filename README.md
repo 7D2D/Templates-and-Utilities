@@ -5,3 +5,5 @@ ExportAssetBundles.cs : Place a copy of this file into your Unity 2018.2 project
 MecanimTemplate.controller : A generic mecanim controller preconfigured to convert legacy animation to mecanim, or to control the animation of any new mecanim entity.  
 
 BookPageBlank : A blank template sized correctly to make new pages for the Better Book modlet.
+
+FlagTemplate : A blank template sized correctly to make new flags for the Fun with Flags modlet.
