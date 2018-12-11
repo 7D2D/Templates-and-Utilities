@@ -9,3 +9,5 @@ BookPageBlank : A blank template sized correctly to make new pages for the Bette
 FlagTemplate : A blank template sized correctly to make new flags for the Fun with Flags modlet.
 
 TutorialProjectTemplate : A Unity 2018 project folder pre-configured with the exportscript and a fully populated tag manager.  This project will be used as the base project for all my Unity tutorial packages.
+
+BatTemplate : A Unity Package to import the base bat for use as a template to align new bat modifiers.
