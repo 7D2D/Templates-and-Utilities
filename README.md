@@ -7,3 +7,5 @@ MecanimTemplate.controller : A generic mecanim controller preconfigured to conve
 BookPageBlank : A blank template sized correctly to make new pages for the Better Book modlet.
 
 FlagTemplate : A blank template sized correctly to make new flags for the Fun with Flags modlet.
+
+BatTemplate : Unity Package of the Base Bat to be used to align additonal bat modifiers in Unity.
