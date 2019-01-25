@@ -6,6 +6,8 @@ ExportAssetBundles.cs : (Old version, Use MultiPlatformExport script) Place a co
 
 MecanimTemplate.controller : A generic mecanim controller preconfigured to convert legacy animation to mecanim, or to control the animation of any new mecanim entity.  
 
+BookTemplate : Unity package with everything you need to make your own animated books.
+
 BookPageBlank : A blank template sized correctly to make new pages for the Better Book modlet.
 
 FlagTemplate : A blank template sized correctly to make new flags for the Fun with Flags modlet.
