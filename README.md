@@ -1,6 +1,8 @@
 # Templates-and-Utilities
 
-ExportAssetBundles.cs : Place a copy of this file into your Unity 2018.2 project's asset folder to enable exporting .unity3d bundles for use in 7 Day to Die.
+MultiPlatformExportAssetBundles.cs : Place a copy of this file into your Unity 2018.2 project's asset folder to enable exporting .unity3d bundles that will work correctly on Windows, Linux and Mac OS. 
+
+ExportAssetBundles.cs : (Old version, Use MultiPlatformExport script) Place a copy of this file into your Unity 2018.2 project's asset folder to enable exporting .unity3d bundles for windows only.
 
 MecanimTemplate.controller : A generic mecanim controller preconfigured to convert legacy animation to mecanim, or to control the animation of any new mecanim entity.  
 
