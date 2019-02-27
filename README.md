@@ -17,3 +17,5 @@ TutorialProjectTemplate : An older version of the Unity 2018 project folder. Thi
 TutorialProjectTemplate V2 : A Unity 2018 project folder pre-configured with the exportscript, multiplatform export script, and a fully populated tag manager.  This project will be used as the base project for all my Unity tutorial packages.
 
 BatTemplate : A Unity Package to import the base bat for use as a template to align new bat modifiers.
+
+BillboardTemplate : A Unity Package to import the billboard model and texture.  Edit the texture in a program like paint.net to replace my images with yours.  The coordinates of the images are fixed so piece in your replacement images precisely. 
