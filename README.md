@@ -14,7 +14,7 @@ FlagTemplate : A blank template sized correctly to make new flags for the Fun wi
 
 TutorialProjectTemplate : An older version of the Unity 2018 project folder. This older project will be kept for compatibility with the first "fun with flags" tutorial video.
 
-TutorialProjectTemplate V2 : A Unity 2018 project folder pre-configured with the exportscript, multiplatform export script, and a fully populated tag manager.  This project will be used as the base project for all my Unity tutorial packages.
+TutorialProjectTemplate2019.1 : A Unity 2019 project folder (A18) pre-configured with the exportscript, multiplatform export script, and a fully populated tag manager.  This project will be used as the base project for all my Unity tutorial packages.
 
 BatTemplate : A Unity Package to import the base bat for use as a template to align new bat modifiers.
 
