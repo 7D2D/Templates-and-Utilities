@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - T_Mesh
+  - B_Mesh
+  - T_Mesh_B
+  - T_Block
+  - SB_Prefabs
+  - SB_StartPoint
+  - SB_EntitySpawner
+  - SB_TraderTeleport
+  - E_Player
+  - E_BP_Body
+  - E_BP_Head
+  - E_Car
+  - E_BP_LArm
+  - E_Animal
+  - E_Enemy
+  - E_BP_RArm
+  - E_BP_LLeg
+  - E_BP_RLeg
+  - Sky
+  - E_BP_Spotlight
+  - E_BP_BipedRoot
+  - L_LeftUpperArmGore
+  - L_RightUpperArmGore
+  - L_HeadGore
+  - L_LeftLowerArmGore
+  - L_RightLowerArmGore
+  - L_LeftUpperLegGore
+  - L_LeftLowerLegGore
+  - L_RightUpperLegGore
+  - L_RightLowerLegGore
+  - E_BP_LLowerArm
+  - E_BP_RLowerArm
+  - E_BP_LLowerLeg
+  - E_BP_RLowerLeg
+  - SB_SleeperVolume
+  - SB_SleeperSpawn
+  - LargeEntityBlocker
+  - T_Deco
+  - E_Vehicle
+  - TE_PrefabSub
+  - Sun
+  - Moon
+  - Physics
+  - E_BP_Special
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - NoShadow
+  - Background Image
+  - HoldingItem
+  - RenderInTexture
+  - NGUI
+  - Items
+  - NoCollision
+  - CC Physics
+  - TerrainCollision
+  - Physics Dead
+  - Grass
+  - LargeEntityBlocker
+  - CC Local Physics
+  - Physics
+  - UnderwaterEffect
+  - Trees
+  - LocalPlayer
+  - NotInReflections
+  - ReflectionsOnly
+  - 
+  - Terrain
+  - Wires
+  - Glass
+  - Volumes
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
