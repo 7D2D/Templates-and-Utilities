@@ -1,21 +1,7 @@
 # Templates-and-Utilities
 
-MultiPlatformExportAssetBundles.cs : Place a copy of this file into your Unity 2018.2 project's asset folder to enable exporting .unity3d bundles that will work correctly on Windows, Linux and Mac OS. 
+MultiPlatformExportAssetBundles.zip : Place a copy of this file (MultiPlatformExportAssetBundles.cs) into your Unity project's asset folder to enable exporting .unity3d bundles that will work correctly on Windows, Linux and Mac OS. 
 
-TagManager.asset : replace the Unity TagManager.Asset file found in every Unity projects ProjectSettings folder with this one.  it is the Tagmanager asset used by TFP.
+TagManager.zip : replace the Unity TagManager.Asset file found in every Unity projects ProjectSettings folder with this one (TagManager.asset).  It is the Tagmanager asset used by TFP.
 
-ExportAssetBundles.cs : (Old version, Use MultiPlatformExport script) Place a copy of this file into your Unity 2018.2 project's asset folder to enable exporting .unity3d bundles for windows only.
-
-MecanimTemplate.controller : A generic mecanim controller preconfigured to convert legacy animation to mecanim, or to control the animation of any new mecanim entity.  
-
-BookTemplate : Unity package with everything you need to make your own animated books.
-
-BookPageBlank : A blank template sized correctly to make new pages for the Better Book modlet.
-
-FlagTemplate : A blank template sized correctly to make new flags for the Fun with Flags modlet.
-
-TutorialProjectTemplate2019.1 : A Unity 2019 project folder (A18) pre-configured with the multiplatform export script, and a fully populated tag manager.  This project will be used as the base project for all my Unity tutorial packages except the CreaturePacks.
-
-BatTemplate : A Unity Package to import the base bat for use as a template to align new bat modifiers.
-
-BillboardTemplate : A Unity Package to import the billboard model and texture.  Edit the texture in a program like paint.net to replace my images with yours.  The coordinates of the images are fixed so piece in your replacement images precisely. 
+A19TemplateProject : A Unity 2019 project folder (A19) pre-configured with the multiplatform export script, and a fully populated tag manager.  This project will be used as the base project for all my Unity tutorial packages except the CreaturePacks.
